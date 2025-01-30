@@ -1,0 +1,4 @@
+fastapi[all] #for uvicorn,
+motor[srv] #async mongodb driver for python
+beanie #ORM for mongodb, 
+aiostream #working with async tools
